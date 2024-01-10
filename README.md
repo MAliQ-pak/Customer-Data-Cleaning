@@ -1,4 +1,5 @@
-# -Data Cleansing
+# Data Cleaning with Pandas: Email and Phone Number Consolidation
+
 In this data cleaning project, I utilized the powerful data manipulation and analysis library, Pandas, within a Jupyter Notebook environment to clean and prepare a dataset containing customer information for a call center company. The dataset included valuable information such as contact details, customer names, addresses, and a binary indicator of whether each customer falls into the "Paying Customer" category.
 
 Project Objectives:
